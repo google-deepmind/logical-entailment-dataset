@@ -25,7 +25,7 @@ Each line in the file is a tuple (A, B, E, H1, H2, H3) where:
   *  H1, H2, and H3 are statistics for simple heuristic estimates
         * H1 = whether length(A) >= length(B)
         * H2 = whether vars(B) ⊆ vars(A)
-        * H3 = whether literals(B*) ⊆ literxals(A*)
+        * H3 = whether literals(B*) ⊆ literals(A*)
             (where A* is negation-normal-form version of A)
 
 The crucial pieces of information are the two propositions (A and B) and the entailment E. 
