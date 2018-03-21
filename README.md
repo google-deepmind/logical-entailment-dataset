@@ -1,9 +1,13 @@
 # Entailments for Propositional Logic.
 
-This repository contains code for generating an entailment dataset for propositional logic.
+This repository contains an entailment dataset for propositional logic, and code for generating that dataset.
 It also contains code for parsing the dataset in python.
 
 See the ICLR paper: https://openreview.net/pdf?id=SkZxCk-0Z
+
+## The dataset
+
+The dataset is in the data directory.
 
 ## How to build this code
 
